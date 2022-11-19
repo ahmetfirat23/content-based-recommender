@@ -1,6 +1,4 @@
 essentials
-libasound-dev
-portaudio19-dev
 SpeechRecognition
 PyAudio
 transformers
